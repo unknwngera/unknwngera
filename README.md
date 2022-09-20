@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>I am 23 y.o. Front-end Developer</p>
-<p>My stack: <ul><li>HTML</li> <li>CSS</li> <li>JavaScript</li> <li>Node.js</li> <li>npm</li> <li>React.js</li> <li>Redux(Redux-toolkit)</li> <li>TypeScript</li> <li>Git</li> <li>Docker</li></ul> </p>
+<p>My stack: <ul><li>HTML</li> <li>CSS</li> <li>JavaScript</li> <li>Node.js</li> <li>npm</li> <li>React.js</li> <li>React-native</li> <li>Redux(Redux-toolkit)</li> <li>TypeScript</li> <li>Git</li> <li>Docker</li></ul> </p>
 <p>My profile on Inst: <a href=instagram.com/_unknown.flexx>Click!</a></p>
 
 <!--
